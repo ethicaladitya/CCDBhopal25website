@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+gunicorn
+python-dotenv
+langchain
+langchain-chroma
+langchain-google-genai
+google-generativeai
+langchain-community
+langchain-text-splitters
+gspread
+google-auth-oauthlib
+unstructured
